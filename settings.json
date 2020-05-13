@@ -1,12 +1,12 @@
 {
     "platform": "Playstation",
-    "account": {
+    "account": {AzertyBOT
       "deviceID": "",
       "accountID": "",
       "secret": ""
     },
     "cosmetics": {
-      "skin": "Skull Trooper",
+      "skin": "Recon Expert",
       "backpack": "",
       "emote": "Floss",
       "emoji": "",
@@ -14,10 +14,10 @@
       "pet": ""
     },
     "cosmetics_variants": {
-      "skin": [{"item": "AthenaCharacter", "channel": "ClothingColor", "variant": "Mat1"}],
+      "skin": [{"item": "AthenaCharacter", "channel": "ClothingColor", "variant": "Mat1"}],{"code":"891ff5eddddf47ab81b311a7e0a47e36"}
       "backpack": [],
       "pickaxe": [],
       "pet": []
     },
-    "owners": ["LupusLeaks YT"]
+    "owners": ["Rapide-65"]
   }
